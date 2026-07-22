@@ -80,3 +80,14 @@ if user_prompt and user_prompt.strip():
 
     with st.chat_message("assistant"):
         st.markdown(ai_response)
+
+
+hide_streamlit_style = """
+<style>
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+</style>
+"""
+
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)

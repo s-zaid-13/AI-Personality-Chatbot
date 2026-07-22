@@ -8,6 +8,8 @@ An interactive AI chatbot built with **Streamlit** and **Groq LLMs**. Users can 
 
 🔗 **Live App:** https://ai-personality-chatbot-spiral-lab.streamlit.app/
 
+
+[![AI Personality Chatbot](assets/chatbot.png)](https://ai-personality-chatbot-spiral-lab.streamlit.app/)
 ---
 
 ## Features
