@@ -194,11 +194,6 @@ This ensures the chatbot remains focused on its assigned role throughout the con
 
 ---
 
-# 📸 Screenshots
-
-<img src="assets/chatbot.png" width="1000">
-
----
 
 # 🔮 Future Improvements
 
