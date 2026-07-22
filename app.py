@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_scroll_to_bottom import scroll_to_bottom
 from prompts import PERSONALITIES
 from groq_helper import generate_response
 
